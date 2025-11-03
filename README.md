@@ -1,0 +1,2 @@
+# OOP-Project-Super-Market-Inventory-Management-System-C-
+A simple version of super market inventory system that checks the available stock , update stock after purchasing , display / print the total bill and the items bill separately . Note that this is the simpler version of the super market inventory system the advanced complex version is also available on my Github you can check that out as well ! .
